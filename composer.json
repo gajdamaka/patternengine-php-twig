@@ -24,7 +24,7 @@
 		}
 	},
 	"require": {
-		"pattern-lab/core": "^2.0.0",
+		"pattern-lab/core": "^5.11.1",
 		"twig/twig":        "^2.0.0"
 	},
 	"extra": {
